@@ -1,20 +1,20 @@
-自己常用的skill以及自己总结的skill
+# 自己常用的skill以及自己总结的skill
 
-dietrichgebert/ponytail 简化代码
+- dietrichgebert/ponytail 简化代码
 
-mattpocock/skills
-Grilling
-grill-me
-grill-with-docs 需要再项目下生成CONTEXT.md
-domain-modeling 一般用不着
-diagnosing-bugs 一般用不着
-setup-matt-pocock-skills 最好在项目下运行一次
-handoff 交接文档
-tdd 新安装还没怎么用
+## mattpocock/skills
+- Grilling
+- grill-me
+- grill-with-docs 需要再项目下生成CONTEXT.md
+- domain-modeling 一般用不着
+- diagnosing-bugs 一般用不着
+- setup-matt-pocock-skills 最好在项目下运行一次
+- handoff 交接文档
+- tdd 新安装还没怎么用
 
-humanlayer/show-me 时序图等表现
+- humanlayer/show-me 时序图等表现
 
-anthropics/skill-creator
+- anthropics/skill-creator
 
 https://github.com/multica-ai/andrej-karpathy-skills/blob/main/skills/karpathy-guidelines/SKILL.md 可以合并到自己的规则
 
