@@ -18,14 +18,17 @@
 
 https://github.com/multica-ai/andrej-karpathy-skills/blob/main/skills/karpathy-guidelines/SKILL.md 可以合并到自己的规则
 
-figma
-figma-implement-design
+## figma
+- figma
+- figma-implement-design
 
 figma 添加mcp,可以用ccswitch添加
+```
 {
   "type": "http",
   "url": "https://mcp.figma.com/mcp"
 }
+```
 
 
 https://github.com/multica-ai/andrej-karpathy-skills/blob/main/skills/karpathy-guidelines/SKILL.md
